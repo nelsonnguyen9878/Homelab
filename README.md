@@ -3,7 +3,7 @@
 flowchart TB
 
 Internet((Internet))
-TP-Link Router[Router]
+TPLink Router[Router]
 Unifi Switch[Managed Switch]
 
 Internet --> Router
